@@ -1,0 +1,29 @@
+# Cooking Recipe Rating System
+
+## Project Overview
+The Cooking Recipe Rating System is a web-based application that allows users to explore cooking recipes, view recipe details, and share their ratings and feedback.
+
+## Technologies Used
+- Python
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- MySQL
+
+## Main Features
+- User Registration and Login
+- View Cooking Recipes
+- Add and Manage Recipes
+- Recipe Details
+- Rate Recipes
+- Submit Reviews and Feedback
+- Chef can see their Junior Cooking Recipe and Give Feedback 
+## Database
+MySQL
+
+## Project Purpose
+To provide a platform where users can discover cooking recipes and share their experiences through ratings and reviews.
+
+## Developer
+Kaushalya Udayakumar
